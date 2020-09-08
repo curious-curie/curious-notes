@@ -1,49 +1,40 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://curious-notes.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Curious Notes By Curie',
+  subtitle: 'Daily Learning Journals by Curious-Curie',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  // googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Notes',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Curie Yoo',
+    photo: 'media/profile.jpeg',
+    bio: 'Hi, I am Curie!',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'curious.curieyoo@gmail.com',
+      facebook: 'https://www.facebook.com/curie.yoo/',
+      github: 'https://github.com/curious-curie',
+      rss: 'https://curious-curie.github.io/curious-page/',
+      linkedin: 'https://www.linkedin.com/in/curie-yoo-213871151/',
+      instagram: 'https://www.instagram.com/curious.curie/',
     }
   }
 };
