@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Daily Learning Journals by Curious-Curie',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 8,
   // googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -18,6 +18,10 @@ module.exports = {
     {
       label: 'About',
       path: '/pages/about'
+    },
+    {
+      label: 'Tags',
+      path: '/tags'
     },
     // {
     //   label: 'Contact me',
