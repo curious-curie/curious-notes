@@ -1,5 +1,5 @@
 ---
-title: [Vue.js] computed vs watch vs methods
+title: "[Vue.js] computed vs watch vs methods"
 date: "2020-04-17T22:40:32.169Z"
 template: "post"
 draft: false
@@ -9,10 +9,7 @@ tags:
   - "Javascript"
   - "Vue"
   - "Web Development"
-description: "computed vs watch vs methods
-- computed: 참조하는 데이터의 변화 있을 때만 연산, 한번 연산한 값을 캐싱해놓았다가 필요한 부분에 닷 ㅣ활용
-    - computed에서 참조하는 속성과 관련없는 것이 업데이트되어서 ui가 재렌더링될 때, computed property는 계산되지 않고 캐싱되어있던 데이터가 리턴됨
-..."
+description: "computed vs watch vs methods - 차이점 그리고 언제 써야할까?"
 socialImage: ""
 ---
 # computed vs watch vs methods

@@ -1,5 +1,5 @@
 ---
-title: GET vs. POST
+title: "HTTP Method: GET vs. POST"
 date: "2020-08-11T22:40:32.169Z"
 template: "post"
 draft: false

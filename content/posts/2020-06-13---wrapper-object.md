@@ -1,5 +1,5 @@
 ---
-title: [Javascript] Wrapper 객체
+title: "[Javascript] Wrapper 객체"
 date: "2020-08-05T22:40:32.169Z"
 template: "post"
 draft: false
