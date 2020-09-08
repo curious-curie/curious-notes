@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/profile.jpeg"
+socialImage: "/photo.jpg"
 ---
 
 ### Curie Yoo
