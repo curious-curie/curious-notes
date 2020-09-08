@@ -91,6 +91,14 @@ hr {
   width: 100px;
 }
 
+
+.profile-image {
+  width: 50% !important;
+  height: 50% !important;
+  border-radius: 50%;
+  margin: 6px;
+}
+
 a {
   color: $typographic-link-p-font-color;
   text-decoration: none;

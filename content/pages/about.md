@@ -1,12 +1,14 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/profile.jpg"
 ---
 
 ### Curie Yoo
+<img src="/media/curie.JPG" alt="photo of me" class="profile-image" >
 
-Hi, I'm Curie Yoo. <br>
+
+I'm Curie Yoo. <br>
 I love to learn, code, and create new things.
 Curiosity is the source of my learning, passion, and challenge.
 <br>

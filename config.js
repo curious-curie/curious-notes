@@ -30,11 +30,11 @@ module.exports = {
     bio: 'Hi, I am Curie!',
     contacts: {
       email: 'curious.curieyoo@gmail.com',
-      facebook: 'https://www.facebook.com/curie.yoo/',
-      github: 'https://github.com/curious-curie',
+      facebook: 'curie.yoo',
+      github: 'curious-curie',
       rss: 'https://curious-curie.github.io/curious-page/',
-      linkedin: 'https://www.linkedin.com/in/curie-yoo-213871151/',
-      instagram: 'https://www.instagram.com/curious.curie/',
+      linkedin: 'curie-yoo-213871151',
+      instagram: 'curious.curie',
     }
   }
 };
