@@ -1,5 +1,5 @@
 ---
-title: [React] Mobx 리뷰 및 사용기, Redux와 비교
+title: "[React] Mobx 리뷰 및 사용기, Redux와 비교"
 date: "2020-08-20T22:40:32.169Z"
 template: "post"
 draft: false
