@@ -13,7 +13,7 @@ tags:
 description: "Waterfall vs. Agile
 
 폭포수 모델 (waterfall model)과 애자일 모델 (Agile model)은 가장 대표적인 프로젝트 방법론 두가지라고 볼 수 있습니다. 차이점을 설명하기에 앞서, 아래 이미지를 보시면 대략적인 두 방법론의 차이점을 아실 수 있을 것 같습니다... "
-socialImage: "/media/agile.jpg"
+socialImage: ""
 ---
 
 ## Waterfall vs. Agile
