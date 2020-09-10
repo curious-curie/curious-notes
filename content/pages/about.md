@@ -1,15 +1,7 @@
 ---
 title: "About me"
 template: "page"
-<<<<<<< HEAD
-<<<<<<< HEAD
 socialImage: ""
-=======
-socialImage: "/media/profile.jpeg"
->>>>>>> adbb792... fix: image file name
-=======
-socialImage: "/photo.jpg"
->>>>>>> 61e1b3f... update images
 ---
 
 
