@@ -10,23 +10,19 @@ module.exports = {
   postsPerPage: 6,
   // googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
-  menu: [
-    {
-      label: 'Notes',
-      path: '/'
-    },
-    {
-      label: 'About',
-      path: '/pages/about'
-    },
-    {
-      label: 'Tags',
-      path: '/tags'
-    },
-    // {
-    //   label: 'Contact me',
-    //   path: '/pages/contacts'
-    // }
+  menu: [{
+    label: 'Notes',
+    path: '/'
+  }, {
+    label: 'About',
+    path: '/pages/about'
+  }, {
+    label: 'Tags',
+    path: '/tags'
+  } // {
+  //   label: 'Contact me',
+  //   path: '/pages/contacts'
+  // }
   ],
   author: {
     name: 'Curie Yoo',
@@ -38,7 +34,7 @@ module.exports = {
       github: 'curious-curie',
       rss: 'https://curious-curie.github.io/curious-page/',
       linkedin: 'curie-yoo-213871151',
-      instagram: 'curious.curie',
+      instagram: 'curious.curie'
     }
   }
 };
