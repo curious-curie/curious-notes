@@ -3,7 +3,7 @@ title: "[JS] ECMAScript와 ES6"
 date: "2020-09-05T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "js-immutability"
+slug: "ecma-script-es6"
 category: "Javascript"
 tags:
   - "Javascript"
