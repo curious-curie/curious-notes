@@ -1,6 +1,6 @@
 ---
 title: "[JS] ECMAScript와 ES6"
-date: "2020-08-05T22:40:32.169Z"
+date: "2020-09-05T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "js-immutability"
@@ -101,6 +101,7 @@ console.log(num.calc()); // 5 + 8 = 13
 - async await
 
     ⇒ 가독성 높은 비동기 처리! 
+    - 너무 자주 쓰는 친구인데, ES8의 자식이었구나
 
 ```jsx
 async function 함수명() {
