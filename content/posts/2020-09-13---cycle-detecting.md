@@ -3,13 +3,13 @@ title: "[Algorithm] Cycle Detecting"
 date: "2020-09-13T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "why-v-dom"
-category: "Javascript"
+slug: "cycle-detecting"
+category: "Algorithm"
 tags:
-  - "Javascript"
-  - "React"
-  - "Web Development"
-description: "가상 돔은 정말 빠를까 ? 가상 돔이 필요한 이유 ?"
+  - "Algorithm"
+  - "CS"
+  - "Graph"
+description: "사이클을 탐지할 수 있는 다양한 방법들 - DFS, BFS, Kruskal 이용"
 socialImage: ""
 ---
 
