@@ -1,10 +1,10 @@
 ---
 title: "[JS] V8 엔진과 JIT 컴파일러"
-date: "2020-09-28T22:40:32.169Z"
+date: "2020-10-03T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "philosophy-of-react"
-category: "React"
+slug: "js-engine-v8"
+category: "Javascript"
 tags:
   - "Javascript"
   - "Web Development"

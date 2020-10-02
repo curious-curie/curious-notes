@@ -1,6 +1,6 @@
 ---
 title: "[React] 리액트의 철학"
-date: "2020-09-28T22:40:32.169Z"
+date: "2020-10-02T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "philosophy-of-react"
