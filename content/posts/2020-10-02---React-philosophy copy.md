@@ -9,7 +9,7 @@ tags:
   - "Javascript"
   - "React"
   - "Web Development"
-description: "리액트는 "구성할 수 있는 (Composable)" 유저 인터페이스를 만들기 위한 라이브러리이다.  지속적으로 변화하는 데이터를 표현하는 재사용 가능한 UI 컴포넌트를 만들도록 도와준다."
+description: "리액트는 구성할 수 있는 (Composable) 유저 인터페이스를 만들기 위한 라이브러리이다.  지속적으로 변화하는 데이터를 표현하는 재사용 가능한 UI 컴포넌트를 만들도록 도와준다."
 socialImage: ""
 ---
 
