@@ -1,13 +1,29 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: ""
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+<img src="/media/curie.JPG" alt="photo of me" class="profile-image" >
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+## Curie Yoo
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I'm Curie Yoo. <br>
+I love to learn, code, and create new things.
+Curiosity is the source of my learning, passion, and challenge.
+<br>
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I majored in computer engineering at Seoul National University. I worked as a front-end intern <a href="https://www.navercorp.com/">NAVER Corp.</a> and <a href="https://www.travelflan.com/">TravelFlan</a> and participated in projects using mainly Vue.js and React.js. For more details, please visit my <a href="https://curious-curie.github.io/curious-page/">works page</a>.
+
+Working as a front-end developer and studying things related to it are fun. When I do them, I become more immersed than anything else. I love the front-end development because they are the things I enjoy the most and I am motivated to do well.
+
+### #front-end💕 #React #Vue #node.js
+
+<br>
+<div style="color:#999">
+I also love...<br>
+#baking_at_midnight <br>
+#listening_to_the_same_song_all_day <br>
+#35mm_film_camera <br>
+#everything_with_a_toy_poodle_on_it
+</div>
